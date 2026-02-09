@@ -898,5 +898,3 @@ function formatDescs() {
 if (document.readyState === 'complete') formatDescs();
 else document.addEventListener('DOMContentLoaded', formatDescs);
 
-
-
